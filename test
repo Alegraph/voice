@@ -267,3 +267,4 @@ private fun getBitmapFromDrawable(drawable: Drawable): Bitmap {
     }
 
     return bitmap
+}
